@@ -7,9 +7,10 @@ import {
 } from 'react-native-responsive-screen';
 import LinearGradient from 'react-native-linear-gradient';
 import {styles} from './Splash.styles';
+import {Colors} from '@resources';
 export const SplashScreen = () => {
   return (
-    <LinearGradient colors={['#FBD3E9', '#BB377D']} style={styles.container}>
+    <LinearGradient colors={Colors.mainColor} style={styles.container}>
       <View style={{flexDirection: 'row', alignItems: 'center'}}>
         <Image
           source={DEVELOPMENT}
