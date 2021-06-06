@@ -1,3 +1,3 @@
-export default {
+export const enLanguage = {
   des_splash: '',
 };
