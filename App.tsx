@@ -4,7 +4,7 @@ import {SplashScreen} from './src/presentation/container';
 const App = () => {
   return (
     <>
-      <StatusBar backgroundColor={'#007eff'} />
+      <StatusBar barStyle={'dark-content'} />
       <SplashScreen />
     </>
   );
