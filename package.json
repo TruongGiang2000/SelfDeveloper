@@ -17,6 +17,7 @@
     "@babel/plugin-proposal-decorators": "^7.14.2",
     "@react-navigation/native": "^5.7.3",
     "@react-navigation/stack": "^5.9.0",
+    "@reduxjs/toolkit": "^1.5.1",
     "appcenter": "^4.0.2",
     "appcenter-analytics": "^4.0.2",
     "appcenter-cli": "^2.7.4",
@@ -31,7 +32,9 @@
     "react-native-code-push": "^7.0.0",
     "react-native-fast-image": "^8.3.4",
     "react-native-linear-gradient": "^2.5.6",
-    "react-native-responsive-screen": "^1.4.2"
+    "react-native-responsive-screen": "^1.4.2",
+    "react-redux": "^7.2.4",
+    "redux-observable": "^1.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

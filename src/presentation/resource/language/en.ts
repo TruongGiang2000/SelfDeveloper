@@ -1,3 +1,3 @@
 export const enLanguage = {
-  des_splash: '',
+  des_splash: 'aaaaddd',
 };

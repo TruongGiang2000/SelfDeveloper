@@ -1,3 +1,3 @@
 export const viLanguage = {
-  des_splash: '',
+  des_splash: 'aaa',
 };
